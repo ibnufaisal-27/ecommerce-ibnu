@@ -13,6 +13,7 @@
 Route::get('/', 'Ecommerce\FrontController@index')->name('front.index');
 Route::get('/product', 'Ecommerce\FrontController@product')->name('front.product');
 Route::get('/category/{slug}', 'Ecommerce\FrontController@categoryProduct')->name('front.category');
+Route::get('/product/{slug}', 'Ecommerce\FrontController@show')->name('front.show_product');
 Auth::routes();
 
 //JADI INI GROUPING ROUTE, SEHINGGA SEMUA ROUTE YANG ADA DIDALAMNYA
