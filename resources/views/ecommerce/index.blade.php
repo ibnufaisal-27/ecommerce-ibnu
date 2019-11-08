@@ -61,7 +61,7 @@
 				<div class="row">
 					<div class="main_title">
 						<h2>Produk Terbaru</h2>
-						<p>Tampil trendi dengan kumpulan produk kekinian kami.</p>
+						<p>Tampil trendi dengan komputer terkini kami.</p>
 					</div>
 				</div>
 				<div class="row">
